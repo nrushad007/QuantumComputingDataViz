@@ -6,11 +6,10 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Visualizing the IBM Quantum Computing Hardware System"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Nrushad Joshi
+  repo-url: https://nrushad007.github.io/QuantumComputingDataViz/
   date: today
   page-footer:
     right: |
